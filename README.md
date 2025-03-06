@@ -9,7 +9,7 @@
 - **Movies Search App**  
   [Detailed Project Documentation](#)
 - **Weather App**  
-  [Detailed Project Documentation](#)
+  [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
 - **Pokemon Search App**  
   [Detailed Project Documentation](#)
 
