@@ -6,7 +6,7 @@
   [Detailed Project Documentation](https://github.com/DevOlabode/Random-dad-joke-generator)
 - **Weather App**  
   [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
-  - **Pokemon Search App**  
+- **Pokemon Search App**  
   [Detailed Project Documentation](https://github.com/DevOlabode/pokemon-website)
 <!-- - **Simple Calculator App**  
   [Detailed Project Documentation](#)
