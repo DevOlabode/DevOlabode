@@ -3,7 +3,7 @@
 ### 👨‍💻 Projects:
 
 - **Random Dad Joke**  
-  [Detailed Project Documentation](#)
+  [Detailed Project Documentation](https://github.com/DevOlabode/Random-dad-joke-generator)
 - **Simple Calculator App**  
   [Detailed Project Documentation](#)
 - **Movies Search App**  
