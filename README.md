@@ -4,14 +4,14 @@
 
 - **Random Dad Joke**  
   [Detailed Project Documentation](https://github.com/DevOlabode/Random-dad-joke-generator)
-- **Simple Calculator App**  
+- **Weather App**  
+  [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
+<!-- - **Simple Calculator App**  
   [Detailed Project Documentation](#)
 - **Movies Search App**  
   [Detailed Project Documentation](#)
-- **Weather App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
 - **Pokemon Search App**  
-  [Detailed Project Documentation](#)
+  [Detailed Project Documentation](#) -->
 
 ### 📖 Certifications:
 
