@@ -18,7 +18,7 @@
 - **Responsive Web Design - Freecodecamp**  
    - [https://www.freecodecamp.org/certification/DevOlabode/responsive-web-design]
 - **Javascript Algorithm and Data Structures - Freecodecamp**  
-  [https://www.freecodecamp.org/certification/DevOlabode/javascript-algorithms-and-data-structures-v8]
+   - [https://www.freecodecamp.org/certification/DevOlabode/javascript-algorithms-and-data-structures-v8]
 
 
 ### 🤳 Connect with me:
