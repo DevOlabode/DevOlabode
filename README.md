@@ -19,6 +19,10 @@
    - [https://www.freecodecamp.org/certification/DevOlabode/responsive-web-design]
 - **Javascript Algorithm and Data Structures - Freecodecamp**  
    - [https://www.freecodecamp.org/certification/DevOlabode/javascript-algorithms-and-data-structures-v8]
+- **Javascript (Basic) - HackerRank**  
+   - [https://www.hackerrank.com/certificates/884b42dc829d]
+- **Javascript (Intermediate) - HackerRank**  
+   - [https://www.hackerrank.com/certificates/ca76dd870b7f]
 
 
 ### 🤳 Connect with me:
