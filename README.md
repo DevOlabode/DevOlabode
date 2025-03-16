@@ -5,7 +5,7 @@
 - **Random Dad Joke**  
   [Detailed Project Documentation](https://github.com/DevOlabode/Random-dad-joke-generator)
 - **Todo List App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/Random-dad-joke-generator)
+  [Detailed Project Documentation](https://github.com/DevOlabode/todoList-App)
 - **Weather App**  
   [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
 - **Pokemon Search App**  
