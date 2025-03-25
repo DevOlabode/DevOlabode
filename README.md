@@ -1,7 +1,6 @@
 ## Hi, I'm Samuel Olabode! 
 
-
-## Skills
+## Skills:
 
  - **HTML**
  - **CSS**
