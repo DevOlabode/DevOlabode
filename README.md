@@ -5,7 +5,7 @@
  - **HTML**
  - **CSS**
  - **Javascript**
- - **Node**
+ - **Node.js**
    
 ### Front-End Projects:
 
