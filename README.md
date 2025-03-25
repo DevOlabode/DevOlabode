@@ -1,5 +1,13 @@
-## Hi, I'm Samuel Olabode! 👋 I am a frontend web developer who focuses on working with HTML, CSS AND JS and I am currently learning backend web development.
-##
+## Hi, I'm Samuel Olabode! 
+
+
+## Skills
+
+ - **HTML**
+ - **CSS**
+ - **Javascript**
+ - **Node**
+   
 ### 👨‍💻Front-End Projects:
 
 - **Random Dad Joke**  
