@@ -8,7 +8,7 @@
  - **Javascript**
  - **Node**
    
-### 👨‍💻Front-End Projects:
+### Front-End Projects:
 
 - **Random Dad Joke**  
   [Detailed Project Documentation](https://github.com/DevOlabode/Random-dad-joke-generator)
@@ -23,7 +23,7 @@
  - **Movies Search App**  
   [Detailed Project Documentation](#) -->
 
-### 📖 Certifications:
+###  Certifications:
 
 - **Responsive Web Design - Freecodecamp**  
    - [https://www.freecodecamp.org/certification/DevOlabode/responsive-web-design]
@@ -35,7 +35,7 @@
    - [https://www.hackerrank.com/certificates/ca76dd870b7f]
 
 
-### 🤳 Connect with me:
+###  Connect with me:
 [<img align="left" alt="SamuelOlabode | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SamuelOlabode | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
