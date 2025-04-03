@@ -1,4 +1,4 @@
-## Hi, I'm Samuel Olabode! 
+## Hi, I'm Samuel Olabode.
 
 ## Skills:
 
