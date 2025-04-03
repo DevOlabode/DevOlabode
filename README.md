@@ -19,8 +19,7 @@
   [Detailed Project Documentation](https://github.com/DevOlabode/pokemon-website)
 - **Simple Calculator App**  
   [Detailed Project Documentation](https://github.com/DevOlabode/simple-calculator-app)
- - **Movies Search App**  
-  [Detailed Project Documentation](#) -->
+
 
 ###  Certifications:
 
