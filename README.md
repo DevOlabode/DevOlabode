@@ -17,8 +17,8 @@
   [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
 - **Pokemon Search App**  
   [Detailed Project Documentation](https://github.com/DevOlabode/pokemon-website)
-<!-- - **Simple Calculator App**  
-  [Detailed Project Documentation](#)
+- **Simple Calculator App**  
+  [Detailed Project Documentation]()
  - **Movies Search App**  
   [Detailed Project Documentation](#) -->
 
