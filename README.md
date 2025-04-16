@@ -25,15 +25,8 @@ Hi, I'm Samuel Olabode — a Grade 10 student and a passionate front-end develop
 
 - **Rock paper Scissors Game with Node**  
   [Detailed Project Documentation](https://github.com/DevOlabode/rock-paper-scissors-with-node)
-- **Todo List App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/todoList-App)
-- **Weather App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
-- **Pokemon Search App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/pokemon-website)
-- **Simple Calculator App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/simple-calculator-app)
-
+- **Tweet Nest**  
+  [Detailed Project Documentation](https://github.com/DevOlabode/tweetNest)
 
 ###  Certifications:
 
