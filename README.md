@@ -1,12 +1,12 @@
 Hi, I'm Samuel Olabode — a Grade 10 student and a passionate front-end developer. I love building clean, user-friendly interfaces and am currently expanding my skills by learning back-end development to become a full-stack developer. I'm always curious, constantly learning, and excited to contribute to cool projects!
-
+---
 ## Skills:
 
  - **HTML**
  - **CSS**
  - **Javascript**
  - **Node.js**
-   
+ ---
 ### Front-End Projects:
 
 - **Random Dad Joke**  
@@ -20,14 +20,14 @@ Hi, I'm Samuel Olabode — a Grade 10 student and a passionate front-end develop
 - **Simple Calculator App**  
   [Detailed Project Documentation](https://github.com/DevOlabode/simple-calculator-app)
 
-  
+---  
 ### Back-End Projects:
 
 - **Rock paper Scissors Game with Node**  
   [Detailed Project Documentation](https://github.com/DevOlabode/rock-paper-scissors-with-node)
 - **Tweet Nest**  
   [Detailed Project Documentation](https://github.com/DevOlabode/tweetNest)
-
+---
 ###  Certifications:
 
 - **Responsive Web Design - Freecodecamp**  
@@ -39,7 +39,7 @@ Hi, I'm Samuel Olabode — a Grade 10 student and a passionate front-end develop
 - **Javascript (Intermediate) - HackerRank**  
    - [https://www.hackerrank.com/certificates/ca76dd870b7f]
 
-
+---
 ###  Connect with me:
 [<img align="left" alt="SamuelOlabode | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SamuelOlabode | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
