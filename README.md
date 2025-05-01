@@ -7,6 +7,7 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
  - **Javascript**
  - **Node.js**
  - **Express.js**
+ - **Mongo DB**
  ---
 ### Front-End Projects:
 
