@@ -2,8 +2,7 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
 ---
 ## Skills:
 
- - **HTML**
- - **CSS**
+ - **HTML/CSS**
  - **Javascript**
  - **Node.js**
  - **Express.js**
