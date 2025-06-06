@@ -15,14 +15,19 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
   [Detailed Project Documentation](https://github.com/DevOlabode/Random-dad-joke-generator)
 - **Todo List App**  
   [Detailed Project Documentation](https://github.com/DevOlabode/todoList-App)
-- **Weather App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
-- **Pokemon Search App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/pokemon-website)
 - **Simple Calculator App**  
   [Detailed Project Documentation](https://github.com/DevOlabode/simple-calculator-app)
 
 ---  
+---
+### API Handling Projects:
+
+- **Pokemon Search App**
+ [Detailed Project Documentation](https://github.com/DevOlabode/pokemon-website)
+- **Weather App**
+ [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
+ 
+---
 ### Back-End Projects:
 
 - **Rock paper Scissors Game with Node**  
