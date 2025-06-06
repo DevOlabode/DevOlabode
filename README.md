@@ -30,7 +30,7 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
 - **Tweet Nest**  
   [Detailed Project Documentation](https://github.com/DevOlabode/tweetNest)
 - **Appointment Manager**  
-  [Detailed Project Documentation]()  
+  [Detailed Project Documentation]('https://github.com/DevOlabode/appointment-manager')  
 ---
 ###  Certifications:
 
