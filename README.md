@@ -29,6 +29,8 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
   [Detailed Project Documentation](https://github.com/DevOlabode/rock-paper-scissors-with-node)
 - **Tweet Nest**  
   [Detailed Project Documentation](https://github.com/DevOlabode/tweetNest)
+- **Appointment Manager**  
+  [Detailed Project Documentation]()  
 ---
 ###  Certifications:
 
