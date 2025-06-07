@@ -30,8 +30,9 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
 ---
 ### Back-End Projects:
 
-- **Rock paper Scissors Game with Node**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/rock-paper-scissors-with-node)
+
+- **Tweet Nest**  
+  [Detailed Project Documentation](https://github.com/DevOlabode/tweetNest)
 - **Tweet Nest**  
   [Detailed Project Documentation](https://github.com/DevOlabode/tweetNest)
 - **Appointment Manager**  
