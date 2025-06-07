@@ -32,7 +32,7 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
 
 
 - **Apply Tracker**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/tweetNest)
+  [Detailed Project Documentation](https://github.com/DevOlabode/Apply-tracker)
 - **Tweet Nest**  
   [Detailed Project Documentation](https://github.com/DevOlabode/tweetNest)
 - **Appointment Manager**  
