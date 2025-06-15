@@ -1,6 +1,6 @@
 Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end developer. I love building clean, user-friendly interfaces and am currently expanding my skills by learning back-end development to become a full-stack developer. I'm always curious, constantly learning, and excited to contribute to cool projects!
 ---
-## Skills:
+## Skills At The Moment:
 
  - **HTML/CSS**
  - **Javascript**
