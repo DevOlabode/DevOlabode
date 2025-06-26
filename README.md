@@ -33,8 +33,8 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
 
 - **Apply Tracker**  
   [Detailed Project Documentation](https://github.com/DevOlabode/Apply-tracker)
-- **Tweet Nest**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/tweetNest)
+- **Apply Tracker (Upgraded)**  
+  [Detailed Project Documentation](https://github.com/DevOlabode/Apply-tracker)
 - **Appointment Manager**  
   [Detailed Project Documentation](https://github.com/DevOlabode/appointment-manager)  
 ---
