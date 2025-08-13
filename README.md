@@ -35,7 +35,7 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
   [Detailed Project Documentation](https://github.com/DevOlabode/appointment-manager-with-auth)
 - **Apply Tracker (Upgraded)**  
   [Detailed Project Documentation](https://github.com/DevOlabode/apply-tracker-upgraded)
-- **Appointment Manager**  
+- **Developer Bookmark Vault**  
   [Detailed Project Documentation](https://github.com/DevOlabode/appointment-manager)  
 ---
 ###  Certifications:
