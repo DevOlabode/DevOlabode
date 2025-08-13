@@ -28,7 +28,7 @@ Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end 
   [Detailed Project Documentation](https://github.com/DevOlabode/pokemon-website)
 
 ---
-### Back-End Projects:
+### Full-Stack Projects:
 
 
 - **Appointment Manager With Authentication**  
