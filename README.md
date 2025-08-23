@@ -1,59 +1,50 @@
-Hi, **I'm Samuel Olabode** — a high school student and a passionate front-end developer. I love building clean, user-friendly interfaces and am currently expanding my skills by learning back-end development to become a full-stack developer. I'm always curious, constantly learning, and excited to contribute to cool projects!
----
-## Skills At The Moment:
+# 👋 Hi, I'm Samuel Olabode  
 
- - **Vanilla HTML/CSS**
- - **Javascript**
- - **Node.js**
- - **Express.js**
- - **Mongo DB**
- - **API Handling**
- ---
-### Front-End Projects:
-
-- **Todo List App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/todoList-App)
-- **Simple Calculator App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/simple-calculator-app)
-
----  
-
-### API Handling Projects:
-
-- **Random Dad Joke**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/Random-dad-joke-generator)
-- **Weather App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/weather-App)
-- **Pokemon Search App**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/pokemon-website)
+💡 I'm a **high school student** and a passionate **front-end developer** transitioning into **full-stack development**.  
+I enjoy building **clean, user-friendly interfaces** and bringing ideas to life through code. Currently learning **back-end development** to sharpen my full-stack skills.  
 
 ---
-### Full-Stack Projects:
 
+## 🚀 Tech Stack  
 
-- **Appointment Manager With Authentication**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/appointment-manager-with-auth)
-- **Apply Tracker (Upgraded)**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/apply-tracker-upgraded)
-- **Developer Bookmark Vault**  
-  [Detailed Project Documentation](https://github.com/DevOlabode/developer-bookmark-vault)  
----
-###  Certifications:
-
-- **Responsive Web Design - Freecodecamp**  
-   - [https://www.freecodecamp.org/certification/DevOlabode/responsive-web-design]
-- **Javascript Algorithm and Data Structures - Freecodecamp**  
-   - [https://www.freecodecamp.org/certification/DevOlabode/javascript-algorithms-and-data-structures-v8]
-- **Javascript (Basic) - HackerRank**  
-   - [https://www.hackerrank.com/certificates/884b42dc829d]
-- **Javascript (Intermediate) - HackerRank**  
-   - [https://www.hackerrank.com/certificates/ca76dd870b7f]
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Other:** REST APIs, Authentication, EJS  
 
 ---
-###  Connect with me:
-[<img align="left" alt="SamuelOlabode | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SamuelOlabode | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+## 📌 Featured Projects  
 
-[instagram]: https://www.instagram.com/devolabode/
-[linkedin]: https://linkedin.com/in/Samuelolabode
+### 🔹 Front-End Projects  
+- 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App)  
+- 🧮 [**Simple Calculator App**](https://github.com/DevOlabode/simple-calculator-app)  
+
+### 🔹 API Handling Projects  
+- 😂 [**Random Dad Joke Generator**](https://github.com/DevOlabode/Random-dad-joke-generator)  
+- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App)  
+- 🎮 [**Pokemon Search App**](https://github.com/DevOlabode/pokemon-website)  
+
+### 🔹 Full-Stack Projects  
+- 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth)  
+- 📂 [**Apply Tracker (Upgraded)**](https://github.com/DevOlabode/apply-tracker-upgraded)  
+- 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault)  
+
+---
+
+## 🏆 Certifications  
+
+- [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/DevOlabode/responsive-web-design)  
+- [JavaScript Algorithms & Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/DevOlabode/javascript-algorithms-and-data-structures-v8)  
+- [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
+- [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
+
+---
+
+## 🌍 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Samuelolabode)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devolabode/)  
+
+---
+✨ *"Always curious, constantly learning, and excited to contribute to meaningful projects."*
