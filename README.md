@@ -27,7 +27,7 @@ I enjoy building **clean, user-friendly interfaces** and bringing ideas to life 
 
 ### 🔹 Full-Stack Projects  
 - 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth)  
-- 📂 [**Apply Tracker**](https://github.com/DevOlabode/apply-tracker-upgraded)  
+- 📂 [**Apply Tracker**](https://github.com/DevOlabode/apply-tracker-final)  
 - 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault)  
 
 ---
