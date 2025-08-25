@@ -20,7 +20,7 @@ I enjoy building **clean, user-friendly interfaces** and bringing ideas to life 
 - 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App)  
 - 🧮 [**Simple Calculator App**](https://github.com/DevOlabode/simple-calculator-app)
 
-### 🔹 Front-End Projects
+### 🔹 Back-End Projects
 - [**Auth Service API**](https://github.com/DevOlabode/auth-service-API)  
 
 ### 🔹 API Handling Projects  
