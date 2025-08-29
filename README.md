@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Samuel Olabode  
 
-💡 I'm a **high school student** and a passionate **front-end developer** transitioning into **full-stack development**.  
-I enjoy building **clean, user-friendly interfaces** and bringing ideas to life through code. Currently learning **back-end development** to sharpen my full-stack skills.  
+💡 I'm a **high school student** and an aspiring **full-stack developer** passionate about building **clean, user-friendly interfaces** and **scalable back-end systems**.  
+I love turning ideas into reality through code and am currently expanding my skills in **back-end development** to become a well-rounded full-stack engineer.  
 
 ---
 
@@ -16,24 +16,24 @@ I enjoy building **clean, user-friendly interfaces** and bringing ideas to life 
 
 ## 📌 Featured Projects  
 
-### 🔹 Front-End Projects  
-- 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App)  
-- 🧮 [**Simple Calculator App**](https://github.com/DevOlabode/simple-calculator-app)
+### 🔹 Front-End  
+- 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Simple task manager with CRUD functionality.  
+- 🧮 [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Basic calculator built with JavaScript.  
 
-### 🔹 Back-End Projects
-- [**Auth Service API**](https://github.com/DevOlabode/auth-service-API)  
-- [**URL Shortener API**](https://github.com/DevOlabode/url-shortener-microservice)  
-- [**Rock Paper Scissors With Node**](https://github.com/DevOlabode/rock-paper-scissors-with-node)  
+### 🔹 Back-End  
+- 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – Authentication & authorization API using JWT.  
+- 🔗 [**URL Shortener API**](https://github.com/DevOlabode/url-shortener-microservice) – Shorten long URLs with Node.js & Express.  
+- ✊ [**Rock Paper Scissors (Node.js)**](https://github.com/DevOlabode/rock-paper-scissors-with-node) – CLI game built with Node.  
 
-### 🔹 API Handling Projects  
-- 😂 [**Random Dad Joke Generator**](https://github.com/DevOlabode/Random-dad-joke-generator)  
-- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App)  
-- 🎮 [**Pokemon Search App**](https://github.com/DevOlabode/pokemon-website)  
+### 🔹 API Handling  
+- 😂 [**Dad Joke Generator**](https://github.com/DevOlabode/Random-dad-joke-generator) – Fetches random jokes via API.  
+- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Displays live weather data from OpenWeather API.  
+- 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search Pokémon using PokeAPI.  
 
-### 🔹 Full-Stack Projects  
-- 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth)  
-- 📂 [**Apply Tracker**](https://github.com/DevOlabode/apply-tracker-final)  
-- 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault)  
+### 🔹 Full-Stack  
+- 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Full-stack scheduling app with authentication.  
+- 📂 [**Apply Tracker**](https://github.com/DevOlabode/apply-tracker-final) – Track and manage job applications.  
+- 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Save and organize developer resources.  
 
 ---
 
@@ -52,4 +52,5 @@ I enjoy building **clean, user-friendly interfaces** and bringing ideas to life 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devolabode/)  
 
 ---
-✨ *"Always curious, constantly learning, and excited to contribute to meaningful projects."*
+
+✨ *“Always curious, constantly learning, and excited to build meaningful projects.”*  
