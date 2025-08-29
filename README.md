@@ -22,7 +22,7 @@ I enjoy building **clean, user-friendly interfaces** and bringing ideas to life 
 
 ### 🔹 Back-End Projects
 - [**Auth Service API**](https://github.com/DevOlabode/auth-service-API)  
-- [**URL Shortener API**](https://github.com/DevOlabode/URL-shortener-API)  
+- [**URL Shortener API**](https://github.com/DevOlabode/url-shortener-microservice)  
 
 ### 🔹 API Handling Projects  
 - 😂 [**Random Dad Joke Generator**](https://github.com/DevOlabode/Random-dad-joke-generator)  
