@@ -32,7 +32,7 @@ I love turning ideas into reality through code and am currently expanding my ski
 
 ### 🔹 Full-Stack  
 - 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Full-stack scheduling app with authentication.  
-- 📂 [**Apply Tracker**](https://github.com/DevOlabode/apply-tracker-final) – Track and manage job applications.  
+- 📂 [**Apply Tracker**](https://github.com/DevOlabode/apply-tracker-final) – Track and manage job applications with AI.  
 - 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Save and organize developer resources.  
 
 ---
