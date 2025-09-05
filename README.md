@@ -29,6 +29,7 @@ I love turning ideas into reality through code and am currently expanding my ski
 - 😂 [**Dad Joke Generator**](https://github.com/DevOlabode/Random-dad-joke-generator) – Fetches random jokes via API.  
 - 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Displays live weather data from OpenWeather API.  
 - 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search Pokémon using PokeAPI.  
+- 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search Pokémon using PokeAPI.  
 
 ### 🔹 Full-Stack  
 - 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Full-stack scheduling app with authentication.  
