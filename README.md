@@ -29,7 +29,7 @@ I love turning ideas into reality through code and am currently focusing on **ba
 - 😂 [**Dad Joke Generator**](https://github.com/DevOlabode/Random-dad-joke-generator) – Fetches random jokes via API.  
 - 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Displays live weather data using OpenWeather API.  
 - 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Pokémon search powered by PokeAPI.
-- - 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Word search using Dictionary API.
+- 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Word search using Dictionary API.
 
 ### 🔹 Full-Stack  
 - 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Scheduling app with authentication.  
