@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Samuel Olabode  
+# 👋 Hi, I'm **Samuel Olabode**  
 
 💡 I'm a **high school student** and an aspiring **full-stack developer** passionate about building **clean, user-friendly interfaces** and **scalable back-end systems**.  
-I love turning ideas into reality through code and am currently expanding my skills in **back-end development** to become a well-rounded full-stack engineer.  
+I love turning ideas into reality through code and am currently focusing on **backend development** while strengthening my full-stack skills.  
 
 ---
 
@@ -17,33 +17,33 @@ I love turning ideas into reality through code and am currently expanding my ski
 ## 📌 Featured Projects  
 
 ### 🔹 Front-End  
-- 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Simple task manager with CRUD functionality.  
+- 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Task manager with CRUD functionality.  
 - 🧮 [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Basic calculator built with JavaScript.  
 
 ### 🔹 Back-End  
-- 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – Authentication & authorization API using JWT.  
+- 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – Authentication & authorization API with JWT.  
 - 🔗 [**URL Shortener API**](https://github.com/DevOlabode/url-shortener-microservice) – Shorten long URLs with Node.js & Express.  
-- ✊ [**Rock Paper Scissors (Node.js)**](https://github.com/DevOlabode/rock-paper-scissors-with-node) – CLI game built with Node.  
+- ✊ [**Rock Paper Scissors (CLI)**](https://github.com/DevOlabode/rock-paper-scissors-with-node) – CLI game built with Node.js.  
+- 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Word search using Dictionary API.  
 
 ### 🔹 API Handling  
 - 😂 [**Dad Joke Generator**](https://github.com/DevOlabode/Random-dad-joke-generator) – Fetches random jokes via API.  
-- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Displays live weather data from OpenWeather API.  
-- 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search Pokémon using PokeAPI.  
-- 🎮 [**Dictionary**](https://github.com/DevOlabode/DIctionary-with-API) – Search Words using Dictionary API.  
+- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Displays live weather data using OpenWeather API.  
+- 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Pokémon search powered by PokeAPI.  
 
 ### 🔹 Full-Stack  
-- 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Full-stack scheduling app with authentication.  
-- 📂 [**Apply Tracker**](https://github.com/DevOlabode/apply-tracker-final) – Track and manage job applications with AI.  
+- 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Scheduling app with authentication.  
+- 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track and analyze job applications with AI resume matching.  
 - 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Save and organize developer resources.  
 
 ---
 
 ## 🏆 Certifications  
 
-- [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/DevOlabode/responsive-web-design)  
-- [JavaScript Algorithms & Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/DevOlabode/javascript-algorithms-and-data-structures-v8)  
-- [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
-- [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
+- ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/DevOlabode/responsive-web-design)  
+- ✅ [JavaScript Algorithms & Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/DevOlabode/javascript-algorithms-and-data-structures-v8)  
+- ✅ [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
+- ✅ [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
 
 ---
 
