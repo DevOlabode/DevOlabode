@@ -26,7 +26,6 @@ I love turning ideas into reality through code and am currently focusing on **ba
 - ✊ [**Rock Paper Scissors (CLI)**](https://github.com/DevOlabode/rock-paper-scissors-with-node) – CLI game built with Node.js.    
 
 ### 🔹 API Handling  
-- 😂 [**Dad Joke Generator**](https://github.com/DevOlabode/Random-dad-joke-generator) – Fetches random jokes via API.  
 - 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Displays live weather data using OpenWeather API.  
 - 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Pokémon search powered by PokeAPI.
 - 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Word search using Dictionary API.
