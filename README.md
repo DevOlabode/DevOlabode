@@ -23,7 +23,7 @@ I love turning ideas into reality through code and am currently focusing on **ba
 ### 🔹 Back-End  
 - 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – Authentication & authorization API with JWT.  
 - 🔗 [**URL Shortener API**](https://github.com/DevOlabode/URL_shortener) – Shorten long URLs with Node.js & Express.  
-- ✊ [**Rock Paper Scissors (CLI)**](https://github.com/DevOlabode/rock-paper-scissors-with-node) – CLI game built with Node.js.    
+  
 
 ### 🔹 API Handling  
 - 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Displays live weather data using OpenWeather API.  
