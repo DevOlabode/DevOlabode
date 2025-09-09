@@ -12,7 +12,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 **Database:** MongoDB  
 **Other:** REST APIs, Authentication, EJS  
 
-*Optional:* Familiar with Git/GitHub, Deployment, and Testing.
+- Familiar with Git/GitHub, Deployment, and Testing.
 
 ---
 
@@ -20,25 +20,25 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ### 🔹 Front-End Projects
 - 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Task manager with CRUD functionality and clean UI.  
-  Tech: HTML, CSS, JavaScript  
+  - Tech: HTML, CSS, JavaScript  
 - 🧮 [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Functional calculator built with JavaScript.  
-  Tech: HTML, CSS, JavaScript  
+  - Tech: HTML, CSS, JavaScript  
 
 ### 🔹 Back-End Projects
 - 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – JWT-based authentication and authorization system.  
-  Tech: Node.js, Express, MongoDB, JWT  
+  - Tech: Node.js, Express, MongoDB, JWT  
 - 🔗 [**URL Shortener API**](https://github.com/DevOlabode/URL_shortener) – Shorten long URLs with Node.js & Express; includes validation and redirects.  
-  Tech: Node.js, Express, MongoDB  
+  - Tech: Node.js, Express, MongoDB  
 - 📝 [**Notes API**](https://github.com/DevOlabode/notes_API) – Backend API for creating, updating, and deleting notes.  
-  Tech: Node.js, Express, MongoDB  
+  - Tech: Node.js, Express, MongoDB  
 
 ### 🔹 API Handling Projects
 - 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data using OpenWeather API.  
-  Tech: Node.js, Express, REST API  
+  - Tech: Node.js, Express, REST API  
 - 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search and filter Pokémon data using PokeAPI.  
-  Tech: Node.js, Express, REST API  
+  - Tech: Node.js, Express, REST API  
 - 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples with a dictionary API.  
-  Tech: Node.js, Express, REST API  
+  - Tech: Node.js, Express, REST API  
 
 ### 🔹 Full-Stack Projects 
 - 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Scheduling app with user authentication.  
