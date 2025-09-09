@@ -23,7 +23,7 @@ I love turning ideas into reality through code and am currently focusing on **ba
 ### 🔹 Back-End  
 - 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – Authentication & authorization API with JWT.  
 - 🔗 [**URL Shortener API**](https://github.com/DevOlabode/URL_shortener) – Shorten long URLs with Node.js & Express.  
-- :page_facing_up: [**Notes API**](https://github.com/DevOlabode/notes_API) – A basic backend for creating and managing notes.  
+- 📝: [**Notes API**](https://github.com/DevOlabode/notes_API) – A basic backend for creating and managing notes.  
   
 
 ### 🔹 API Handling  
