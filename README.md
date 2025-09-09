@@ -42,9 +42,9 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ### 🔹 Full-Stack Projects 
 - 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Scheduling app with user authentication.  
-  Tech: Node.js, Express, MongoDB, JWT  
+  - Tech: Node.js, Express, MongoDB, JWT  
 - 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track and analyze job applications; AI analyzes resumes for job fit.  
-  Tech: Node.js, Express, MongoDB, AI integration  
+  - Tech: Node.js, Express, MongoDB, AI integration  
 - 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources efficiently.  
   - Tech: Node.js, Express, MongoDB  
 
