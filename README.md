@@ -46,7 +46,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 - 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track and analyze job applications; AI analyzes resumes for job fit.  
   Tech: Node.js, Express, MongoDB, AI integration  
 - 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources efficiently.  
-  Tech: Node.js, Express, MongoDB  
+  - Tech: Node.js, Express, MongoDB  
 
 ---
 
@@ -57,7 +57,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 - ✅ [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
 - ✅ [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
 
-*Optional:* Currently learning: Node.js advanced concepts, AI integration, and real-time apps.
+- Currently learning: Node.js advanced concepts, AI integration, and real-time apps.
 
 ---
 
