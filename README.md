@@ -26,9 +26,9 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ### 🔹 Back-End Projects
 - 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – JWT-based authentication and authorization system.  
-  - Tech: Node.js, Express, MongoDB, JWT  
-- 🔗 [**URL Shortener API**](https://github.com/DevOlabode/URL_shortener) – Shorten long URLs with Node.js & Express; includes validation and redirects.  
-  - Tech: Node.js, Express, MongoDB  
+  - Tech: Node.js, Express, MongoDB, JWT
+- 🔑 [**Expense Tracker API**](https://github.com/DevOlabode/auth-service-API) – JWT-based authentication and authorization system.  
+  - Tech: Node.js, Express, MongoDB, JWT
 - 📝 [**Notes API**](https://github.com/DevOlabode/notes_API) – Backend API for creating, updating, and deleting notes.  
   - Tech: Node.js, Express, MongoDB  
 
