@@ -1,52 +1,39 @@
-# 👋 Hi, I'm **Samuel Olabode**  
+# 👋 Hi, I'm Samuel Olabode  
 
-💡 I’m a **high school student** and an aspiring **full-stack developer** passionate about **building user-friendly frontends** and **scalable backends**.  
-I love turning ideas into reality through code, solving real-world problems, and continuously learning modern technologies to stay ahead in web development.  
+💡 I’m a **high school student** and aspiring **full-stack developer** passionate about creating **user-friendly frontends** and **scalable backends**.  
+I love turning ideas into reality through code, solving real-world problems, and continuously learning modern technologies.  
 
 ---
 
 ## 🚀 Tech Stack  
 
-**Frontend:** HTML, CSS, JavaScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Other:** REST APIs, Authentication, EJS  
-
-- Familiar with Git/GitHub, Deployment, and Testing.
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Other Tools:** REST APIs, Authentication, EJS, Git/GitHub, Deployment, Testing  
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🔹 Front-End Projects
+### 🔹 Frontend  
 - 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Task manager with CRUD functionality and clean UI.  
-  - Tech: HTML, CSS, JavaScript  
 - 🧮 [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Functional calculator built with JavaScript.  
-  - Tech: HTML, CSS, JavaScript  
 
-### 🔹 Back-End Projects
+### 🔹 Backend  
 - 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – JWT-based authentication and authorization system.  
-  - Tech: Node.js, Express, MongoDB, JWT
-- 🔑 [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Expense Tracker that trackes all of your expenses, income and return a report(weekly and monthly)
-  - Tech: Node.js, Express, MongoDB, JWT
-- 📝 [**Notes API**](https://github.com/DevOlabode/notes_API) – Backend API for creating, updating, and deleting notes.  
-  - Tech: Node.js, Express, MongoDB  
+- 💰 [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track expenses, income, and generate weekly/monthly reports.  
+- 📝 [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.  
 
-### 🔹 API Handling Projects
-- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data using OpenWeather API.  
-  - Tech: Node.js, Express, REST API  
-- 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search and filter Pokémon data using PokeAPI.  
-  - Tech: Node.js, Express, REST API  
-- 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples with a dictionary API.  
-  - Tech: Node.js, Express, REST API  
+### 🔹 API Projects  
+- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data (OpenWeather API).  
+- 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search and filter Pokémon data (PokeAPI).  
+- 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples.  
 
-### 🔹 Full-Stack Projects 
+### 🔹 Full-Stack  
 - 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Scheduling app with user authentication.  
-  - Tech: Node.js, Express, MongoDB, JWT  
-- 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track and analyze job applications; AI analyzes resumes for job fit.  
-  - Tech: Node.js, Express, MongoDB, AI integration  
-- 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources efficiently.  
-  - Tech: Node.js, Express, MongoDB  
+- 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track & analyze job applications; AI checks resume-job fit.  
+- 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources.  
 
 ---
 
@@ -57,7 +44,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 - ✅ [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
 - ✅ [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
 
-- Currently learning: Node.js advanced concepts, AI integration, and real-time apps.
+📚 *Currently learning:* Advanced Node.js, AI integration, and real-time applications.  
 
 ---
 
@@ -69,4 +56,4 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ---
 
-✨ *“Always curious, constantly learning, and building meaningful projects that solve real problems.”*
+✨ *“Always curious, constantly learning, and building meaningful projects that solve real problems.”*  
