@@ -21,9 +21,9 @@ I love turning ideas into reality through code, solving real-world problems, and
 - 🧮 [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Functional calculator built with JavaScript.  
 
 ### 🔹 Backend  
-- 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – JWT-based authentication and authorization system.  
 - 💰 [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track expenses, income, and generate weekly/monthly reports.  
-- 📝 [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.  
+- 📝 [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.
+-  🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – JWT-based authentication and authorization system.  
 
 ### 🔹 API Projects  
 - 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data (OpenWeather API).  
