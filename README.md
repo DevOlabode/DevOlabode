@@ -1,59 +1,60 @@
-# 👋 Hi, I'm Samuel Olabode  
+# 👋 Hi, I'm **Samuel Olabode**
 
-💡 I’m a **high school student** and aspiring **full-stack developer** passionate about creating **user-friendly frontends** and **scalable backends**.  
-I love turning ideas into reality through code, solving real-world problems, and continuously learning modern technologies.  
-
----
-
-## 🚀 Tech Stack  
-
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Other Tools:** REST APIs, Authentication, EJS, Git/GitHub, Deployment, Testing  
+🎓 High school student | 💻 Aspiring **Full-Stack Developer**  
+Passionate about crafting **intuitive frontends** and **robust backends** that solve real-world problems. I love turning ideas into reality through code and constantly exploring new technologies.
 
 ---
 
-## 📌 Featured Projects  
+## 🚀 Tech Stack
 
-### 🔹 Frontend  
-- 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Task manager with CRUD functionality and clean UI.  
-- 🧮 [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Functional calculator built with JavaScript.  
-
-### 🔹 Backend  
-- 💰 [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track expenses, income, and generate weekly/monthly reports.  
-- 📝 [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.
--  🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) –  Node.js authentication service using Passport.js for user login and registration.
-
-### 🔹 API Handling Projects  
-- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data (OpenWeather API).  
-- 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search and filter Pokémon data (PokeAPI).  
-- 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples.  
-
-### 🔹 Full-Stack  
-- 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Scheduling app with user authentication.  
-- 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track & analyze job applications; AI checks resume-job fit.  
-- 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources.  
+| Frontend | Backend | Database | Other Tools |
+|---------|---------|----------|-------------|
+| HTML, CSS, JavaScript | Node.js, Express.js | MongoDB | REST APIs, Authentication, EJS, Git/GitHub, Deployment, Testing |
 
 ---
 
-## 🏆 Certifications  
+## 📌 Featured Projects
 
-- ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/responsive-web-design)  
-- ✅ [JavaScript Algorithms & Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/javascript-algorithms-and-data-structures-v8)
-- ✅ [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
-- ✅ [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
+### 🔹 **Frontend Projects**
+- 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Clean UI with full CRUD functionality.
+- 🧮 [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – JavaScript-powered calculator.
 
-📚 *Currently learning:* Advanced Node.js, AI integration, and real-time applications.  
+### 🔹 **Backend APIs**
+- 💰 [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track income, expenses, and generate reports.
+- 📝 [**Notes API**](https://github.com/DevOlabode/notes_API) – Create, update, and delete notes.
+- 🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) – Passport.js-based authentication system.
+
+### 🔹 **API Integration Projects**
+- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Live weather data via OpenWeather API.
+- 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search and filter Pokémon using PokeAPI.
+- 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Definitions, synonyms, and examples.
+
+### 🔹 **Full-Stack Builds**
+- 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Schedule appointments with user login.
+- 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Analyze job applications and resume fit.
+- 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Save and organize dev resources.
 
 ---
 
-## 🌍 Connect With Me  
+## 🏆 Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Samuelolabode)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devolabode/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevOlabode)  
+| Platform | Certification |
+|----------|---------------|
+| freeCodeCamp | [Responsive Web Design](https://www.freecodecamp.org/certification/devolabode/responsive-web-design) |
+| freeCodeCamp | [JavaScript Algorithms & Data Structures](https://www.freecodecamp.org/certification/devolabode/javascript-algorithms-and-data-structures-v8) |
+| HackerRank | [JavaScript (Basic)](https://www.hackerrank.com/certificates/884b42dc829d) |
+| HackerRank | [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/ca76dd870b7f) |
+
+📚 *Currently learning:* Advanced Node.js, AI integration, and real-time applications.
 
 ---
 
-✨ *“Always curious, constantly learning, and building meaningful projects that solve real problems.”*  
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Samuelolabode)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devolabode/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevOlabode)
+
+---
+
+> ✨ *“Always curious, constantly learning, and building meaningful projects that solve real problems.”*
