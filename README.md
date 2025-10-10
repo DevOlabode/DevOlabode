@@ -31,7 +31,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 - 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples.  
 
 ### 🔹 Full-Stack  
-- [**AI Environmental Impact Analysis**](https://github.com/DevOlabode/apply-tracker-final) - Give you the environmental imapct of products you buy 
+- 🌱 [**AI Environmental Impact Analyzer**](https://github.com/DevOlabode/apply-tracker-final) - Uses AI to analyze product details and provide insights on carbon footprint, water usage, and sustainability. 
 - 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track & analyze job applications; AI checks resume-job fit.  
 - 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources.  
 
