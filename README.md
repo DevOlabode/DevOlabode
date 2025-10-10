@@ -31,7 +31,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 - 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples.  
 
 ### 🔹 Full-Stack  
-- 📅 [**Appointment Manager (with Auth)**](https://github.com/DevOlabode/appointment-manager-with-auth) – Scheduling app with user authentication.  
+- [**AI Environmental Impact Analysis**](https://github.com/DevOlabode/apply-tracker-final) - Give you the environmental imapct of products you buy 
 - 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track & analyze job applications; AI checks resume-job fit.  
 - 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources.  
 
