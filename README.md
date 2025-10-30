@@ -43,6 +43,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 - ✅ [JavaScript Algorithms & Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/javascript-algorithms-and-data-structures-v8)
 - ✅ [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
 - ✅ [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
+- ✅ [Rest API (Intermediate) – HackerRank]()  
 
 📚 *Currently learning:* Advanced Node.js, AI integration, Docker, Kubernetes and real-time applications.  
 
