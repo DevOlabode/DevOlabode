@@ -31,25 +31,25 @@ I love turning ideas into reality through code, solving real-world problems, and
 - 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples.  
 
 ### 🔹 Full-Stack  
-- 🌱 [**AI Environmental Impact Analyzer**](https://github.com/DevOlabode/AI-environmental-impact-analyzer) - Uses AI to analyze product details and provide insights on carbon footprint, water usage, and sustainability. 
-- 📂 [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track & analyze job applications; AI checks resume-job fit.  
-- 🔖 [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources.  
+-  [**AI Environmental Impact Analyzer**](https://github.com/DevOlabode/AI-environmental-impact-analyzer) - Uses AI to analyze product details and provide insights on carbon footprint, water usage, and sustainability. 
+-  [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track & analyze job applications; AI checks resume-job fit.  
+-  [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources.  
 
 ---
 
-## 🏆 Certifications  
+##  Certifications  
 
-- ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/responsive-web-design)  
-- ✅ [JavaScript Algorithms & Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/javascript-algorithms-and-data-structures-v8)
-- ✅ [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
-- ✅ [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
-- ✅ [Rest API (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/59675752b17e)  
+-  [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/responsive-web-design)  
+-  [JavaScript Algorithms & Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/javascript-algorithms-and-data-structures-v8)
+-  [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
+-  [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
+-  [Rest API (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/59675752b17e)  
 
-📚 *Currently learning:* Advanced Node.js, AI integration, Docker, Kubernetes and real-time applications.  
+ *Currently learning:* Advanced Node.js, AI integration, Docker, Kubernetes and real-time applications.  
 
 ---
 
-## 🌍 Connect With Me  
+##  Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Samuelolabode)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devolabode/)  
@@ -57,4 +57,4 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ---
 
-✨ *“Always curious, constantly learning, and building meaningful projects that solve real problems.”*  
+ *“Always curious, constantly learning, and building meaningful projects that solve real problems.”*  
