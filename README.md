@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Samuel Olabode  
+#  Hi, I'm Samuel Olabode  
 
-💡 I’m a **high school student** and aspiring **full-stack developer** passionate about creating **user-friendly frontends** and **scalable backends**.  
+ I’m a **high school student** and aspiring **full-stack developer** passionate about creating **user-friendly frontends** and **scalable backends**.  
 I love turning ideas into reality through code, solving real-world problems, and continuously learning modern technologies.  
 
 ---
 
-## 🚀 Tech Stack  
+##  Tech Stack  
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
@@ -14,16 +14,16 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 
 ### 🔹 Frontend  
-- 📝 [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Task manager with CRUD functionality and clean UI.  
-- 🧮 [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Functional calculator built with JavaScript.  
+-  [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Task manager with CRUD functionality and clean UI.  
+-  [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Functional calculator built with JavaScript.  
 
 ### 🔹 Backend  
-- 💰 [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track expenses, income, and generate weekly/monthly reports.  
-- 📝 [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.
--  🔑 [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) –  Node.js authentication service using Passport.js for user login and registration.
+-  [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track expenses, income, and generate weekly/monthly reports.  
+-  [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.
+-   [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) –  Node.js authentication service using Passport.js for user login and registration.
 
 ### 🔹 API Handling Projects  
 - 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data (OpenWeather API).  
