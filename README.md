@@ -26,9 +26,9 @@ I love turning ideas into reality through code, solving real-world problems, and
 -   [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) –  Node.js authentication service using Passport.js for user login and registration.
 
 ### 🔹 API Handling Projects  
-- 🌦 [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data (OpenWeather API).  
-- 🎮 [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search and filter Pokémon data (PokeAPI).  
-- 📖 [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples.  
+-  [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data (OpenWeather API).  
+-  [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search and filter Pokémon data (PokeAPI).  
+-  [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples.  
 
 ### 🔹 Full-Stack  
 -  [**AI Environmental Impact Analyzer**](https://github.com/DevOlabode/AI-environmental-impact-analyzer) - Uses AI to analyze product details and provide insights on carbon footprint, water usage, and sustainability. 
