@@ -41,7 +41,6 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 -  [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/responsive-web-design)  
 -  [JavaScript Algorithms & Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/javascript-algorithms-and-data-structures-v8)
--  [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/884b42dc829d)  
 -  [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
 -  [Rest API (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/59675752b17e)  
 
