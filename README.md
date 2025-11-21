@@ -18,17 +18,13 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ### 🔹 Frontend  
 -  [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Task manager with CRUD functionality and clean UI.  
--  [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Functional calculator built with JavaScript.  
+-  [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Functional calculator built with JavaScript.
+-  [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data (OpenWeather API).   
 
 ### 🔹 Backend  
 -  [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track expenses, income, and generate weekly/monthly reports.  
 -  [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.
--   [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) –  Node.js authentication service using Passport.js for user login and registration.
-
-### 🔹 API Handling Projects  
--  [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data (OpenWeather API).  
--  [**Pokémon Search App**](https://github.com/DevOlabode/pokemon-website) – Search and filter Pokémon data (PokeAPI).  
--  [**Dictionary API**](https://github.com/DevOlabode/DIctionary-with-API) – Lookup definitions, synonyms, and examples.  
+-   [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) –  Node.js authentication service using Passport.js for user login and registration
 
 ### 🔹 Full-Stack  
 -  [**AI Environmental Impact Analyzer**](https://github.com/DevOlabode/AI-environmental-impact-analyzer) - Uses AI to analyze product details and provide insights on carbon footprint, water usage, and sustainability. 
