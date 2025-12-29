@@ -16,11 +16,6 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ##  Featured Projects  
 
-### 🔹 Frontend  
--  [**Todo List App**](https://github.com/DevOlabode/todoList-App) – Task manager with CRUD functionality and clean UI.  
--  [**Calculator App**](https://github.com/DevOlabode/simple-calculator-app) – Functional calculator built with JavaScript.
--  [**Weather App**](https://github.com/DevOlabode/weather-App) – Fetches and displays live weather data (OpenWeather API).   
-
 ### 🔹 Backend  
 -  [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track expenses, income, and generate weekly/monthly reports.  
 -  [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.
