@@ -35,7 +35,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 -  [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
 -  [Rest API (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/59675752b17e)  
 
- *Currently learning:* Advanced Node.js, AI integration, Docker, Kubernetes and real-time applications.  
+ *Currently learning:* Advanced Node.js, AI integration, DevOps and real-time applications.  
 
 ---
 
