@@ -1,6 +1,6 @@
 #  Hi, I'm Samuel Olabode  
 
- I’m a **high school student** and aspiring **full-stack javascript developer** passionate about creating **user-friendly frontends** and **scalable backends**.  
+ I’m a **high school student** and aspiring ***full-stack **Javascript** developer*** passionate about creating **user-friendly frontends** and **scalable backends**.  
 I love turning ideas into reality through code, solving real-world problems, and continuously learning modern technologies.  
 
 ---
