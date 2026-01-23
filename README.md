@@ -19,7 +19,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 ### 🔹 Backend  
 -  [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track expenses, income, and generate weekly/monthly reports.  
 -  [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.
--   [**Auth Service API**](https://github.com/DevOlabode/auth-service-API) –  Node.js authentication service using Passport.js for user login and registration
+-   [**voult.dev**](https://github.com/DevOlabode/auth-service-API) –  Node.js authentication service using Passport.js for user login and registration
 
 ### 🔹 Full-Stack  
 -  [**AI Environmental Impact Analyzer**](https://github.com/DevOlabode/AI-environmental-impact-analyzer) - Uses AI to analyze product details and provide insights on carbon footprint, water usage, and sustainability. 
