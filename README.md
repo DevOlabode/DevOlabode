@@ -7,7 +7,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ##  Tech Stack  
 
-- **Frontend:** HTML, CSS, JavaScript, EJS
+- **Frontend:** ReactJS, HTML, CSS, JavaScript, EJS
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Other Tools:** REST APIs, Authentication, EJS, Git/GitHub, Deployment, Testing  
