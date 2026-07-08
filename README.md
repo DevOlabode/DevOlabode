@@ -35,7 +35,14 @@ I love turning ideas into reality through code, solving real-world problems, and
 -  [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
 -  [REST API (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/59675752b17e)  
 
-**Currently:** Building developer tools, contributing to open source, and learning AI integration, DevOps, and real-time systems.
+---
+
+## Currently
+
+**Building:** Developer tools, contributing to open source.
+
+**Learning:** AI integration, DevOps, and real-time systems.
+
 ---
 
 ##  Connect With Me  
