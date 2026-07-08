@@ -1,6 +1,6 @@
 #  Hi, I'm Samuel Olabode  
 
- I’m a **high school student** and aspiring ***full-stack **Javascript** developer*** passionate about creating **user-friendly frontends** and **scalable backends**.  
+ I’m a **high school student** and aspiring ***full-stack ** JavaScript ** developer*** passionate about creating **user-friendly frontends** and **scalable backends**.  
 I love turning ideas into reality through code, solving real-world problems, and continuously learning modern technologies.  
 
 ---
@@ -33,7 +33,7 @@ I love turning ideas into reality through code, solving real-world problems, and
 -  [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/responsive-web-design)  
 -  [JavaScript Algorithms & Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/javascript-algorithms-and-data-structures-v8)
 -  [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/ca76dd870b7f)  
--  [Rest API (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/59675752b17e)  
+-  [REST API (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/59675752b17e)  
 
  *Currently learning:* Advanced Node.js, AI integration, DevOps and real-time applications.  
 
