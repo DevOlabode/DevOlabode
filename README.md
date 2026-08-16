@@ -1,7 +1,10 @@
-#  Hi, I'm Samuel Olabode  
+ # Hi, I'm Samuel Olabode
 
- I’m a **high school student** and aspiring ***full-stack ** JavaScript ** developer*** passionate about creating **user-friendly frontends** and **scalable backends**.  
-I love turning ideas into reality through code, solving real-world problems, and continuously learning modern technologies.  
+I'm a **high school student and software developer** focused on building developer tools, scalable backends, and user-friendly web applications.
+
+I enjoy turning ideas into real products, solving practical problems, contributing to open source, and continuously learning how software works beyond the surface level.
+
+My current interests are **backend engineering, developer experience (DevEx), authentication, APIs, AI integration, and DevOps**.
 
 ---
 
@@ -28,6 +31,14 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 ---
 
+## Open Source
+
+I actively contribute to open-source projects and use them to improve my engineering skills through real-world development workflows.
+
+I'm particularly interested in projects involving **web standards, accessibility, developer tooling, and JavaScript infrastructure**.
+
+---
+
 ##  Certifications  
 
 -  [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/devolabode/responsive-web-design)  
@@ -43,13 +54,13 @@ I love turning ideas into reality through code, solving real-world problems, and
 
 **Learning:** AI integration, DevOps, and real-time systems.
 
----
 
-##  Connect With Me  
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Samuelolabode)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devolabode/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevOlabode)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DevOlabode)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/DevOlabode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Samuelolabode)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/devolabode/)
 
 ---
 
