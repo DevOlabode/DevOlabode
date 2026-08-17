@@ -17,17 +17,25 @@ My current interests are **backend engineering, developer experience (DevEx), au
 
 ---
 
-##  Featured Projects  
+## Featured Projects
 
-### 🔹 Backend  
--   [**voult.dev**](https://github.com/voult-dev) –  API‑first authentication‑as‑a‑service built for developers who want secure, production‑ready auth without the complexity.
--  [**Expense Tracker API**](https://github.com/DevOlabode/expense-tracker-API) – Track expenses and income, and generate weekly/monthly reports.  
--  [**Notes API**](https://github.com/DevOlabode/notes_API) – API for creating, updating, and deleting notes.
+### [Voult](https://github.com/voult-dev)
 
-### 🔹 Full-Stack  
--  [**AI Environmental Impact Analyzer**](https://github.com/DevOlabode/AI-environmental-impact-analyzer) - Uses AI to analyze product details and provide insights on carbon footprint, water usage, and sustainability. 
--  [**Apply Tracker (AI-powered)**](https://github.com/DevOlabode/apply-tracker-final) – Track & analyze job applications; AI checks resume-job fit.  
--  [**Developer Bookmark Vault**](https://github.com/DevOlabode/developer-bookmark-vault) – Organize and save developer resources.  
+API-first authentication-as-a-service designed to give developers secure, production-ready authentication without having to build the infrastructure themselves.
+
+**Focus:** Authentication, APIs, security, developer experience, SaaS
+
+### [AI Environmental Impact Analyzer](https://github.com/DevOlabode/AI-environmental-impact-analyzer)
+
+AI-powered application that analyzes product information and provides insights into carbon footprint, water usage, and sustainability.
+
+**Focus:** AI integration, sustainability, full-stack development
+
+### [Developer Bookmark Vault](https://github.com/DevOlabode/developer-bookmark-vault)
+
+A web application for organizing, managing, and saving useful developer resources in one place.
+
+**Focus:** Full-stack development, resource management, user experience
 
 ---
 
@@ -65,3 +73,4 @@ I'm particularly interested in projects involving **web standards, accessibility
 ---
 
  *“Always curious, constantly learning, and building meaningful projects that solve real problems.”*  
+
