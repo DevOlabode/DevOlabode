@@ -25,12 +25,14 @@ API-first authentication-as-a-service designed to give developers secure, produc
 
 **Focus:** Authentication, APIs, security, developer experience, SaaS
 
-
 ### [Curate](https://github.com/DevOlabode/curate)
 
-A web application for organizing, managing, and saving useful developer resources in one place.
+A free, open-source browser extension for saving, organizing, and managing useful developer resources you find online.
 
-**Focus:** Full-stack development, resource management, user experience
+Built to make it easier for developers to keep track of documentation, tutorials, tools, articles, and other resources worth coming back to.
+
+**Focus:** Browser extensions, developer tooling, full-stack development, user experience, open source
+
 
 ### [AI Environmental Impact Analyzer](https://github.com/DevOlabode/AI-environmental-impact-analyzer)
 
