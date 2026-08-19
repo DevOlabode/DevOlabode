@@ -25,17 +25,18 @@ API-first authentication-as-a-service designed to give developers secure, produc
 
 **Focus:** Authentication, APIs, security, developer experience, SaaS
 
+
+### [Curate](https://github.com/DevOlabode/curate)
+
+A web application for organizing, managing, and saving useful developer resources in one place.
+
+**Focus:** Full-stack development, resource management, user experience
+
 ### [AI Environmental Impact Analyzer](https://github.com/DevOlabode/AI-environmental-impact-analyzer)
 
 AI-powered application that analyzes product information and provides insights into carbon footprint, water usage, and sustainability.
 
 **Focus:** AI integration, sustainability, full-stack development
-
-### [Developer Bookmark Vault](https://github.com/DevOlabode/developer-bookmark-vault)
-
-A web application for organizing, managing, and saving useful developer resources in one place.
-
-**Focus:** Full-stack development, resource management, user experience
 
 ---
 
