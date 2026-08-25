@@ -65,13 +65,13 @@ I'm particularly interested in projects involving **web standards, accessibility
 
 **Learning:** AI integration, DevOps, and real-time systems.
 
-
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DevOlabode)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/DevOlabode)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Samuelolabode)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/devolabode/)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge\&logo=threads\&logoColor=white)](https://www.threads.com/@devolabode)
 
 ---
 
