@@ -33,13 +33,6 @@ Built to make it easier for developers to keep track of documentation, tutorials
 
 **Focus:** Browser extensions, developer tooling, full-stack development, user experience, open source
 
-
-### [AI Environmental Impact Analyzer](https://github.com/DevOlabode/AI-environmental-impact-analyzer)
-
-AI-powered application that analyzes product information and provides insights into carbon footprint, water usage, and sustainability.
-
-**Focus:** AI integration, sustainability, full-stack development
-
 ---
 
 ## Open Source
